@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="MDK01.03">#35EAB0</color>
+    <color name="laboratoryWork">#5AB323</color>
+    <color name="Copyr">#6F82FF</color>
+    <color name="poem">#FF911B</color>
+</resources>
